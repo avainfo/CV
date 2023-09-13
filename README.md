@@ -15,12 +15,18 @@
 - :coffee: Java
 - :snake: Python
 - :iphone: Flutter
+- :atom: React
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="15"/> Kotlin
 
 ## Software Skills
-- :art: Figma
-- :atom: React
-- :robot: Kotlin
-- :keyboard: Intellij Idea
+- :art: Figma 
+- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15"/> Github
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="15"/> Git
+- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="drawing" width="20"/> Jetbrains tools:
+     - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="drawing" width="15"/> Intellij IDEA
+     - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="drawing" width="15"/> Pycharm
+     - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1200px-WebStorm_Icon.png" alt="drawing" width="15"/> WebStorm
+- <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" width="15"/> Android Studio
 
 ## Experiences
 1. **Minecraft Plugin Creation**
