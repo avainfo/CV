@@ -3,7 +3,7 @@
 ## Contact
 - :email: Email: antonindosouto@gmail.com
 - :phone: Phone: +33 07 67 54 65 74
-- :round_pushpin: Location: Orléans, Levallois Perret
+- :round_pushpin: Location: Orléans, Levallois Perret, Paris
 - :octocat: GitHub: [Antonindst](https://github.com/Antonindst)
 - :mag_right: StackOverflow: [Antotor45](https://stackoverflow.com/users/1234567/antotor45)
 
