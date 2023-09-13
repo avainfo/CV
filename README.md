@@ -32,12 +32,12 @@
 1. **Minecraft Plugin Creation**
    - :calendar: Date: April 2016
    - :computer: Language: Java
-   - :speech_balloon: Location: Discord
+   - :round_pushpin: Location: Discord
 
 2. **Website Creation**
    - :calendar: Date: September 2016
    - :computer: Languages: HTML, CSS, JavaScript
-   - :speech_balloon: Location: Discord
+   - :round_pushpin: Location: Discord
 
 3. **Certification Java Programming**
    - :calendar: Date: March 2017
@@ -45,7 +45,7 @@
 
 4. **Start Freelance in Java**
    - :calendar: Date: April 2017
-   - :speech_balloon: Location: Discord
+   - :round_pushpin: Location: Discord
 
 5. **Certification Ethical Hacking**
    - :calendar: Date: September 2017
@@ -57,7 +57,7 @@
 
 7. **Start Freelance in Flutter**
    - :calendar: Date: January 2018
-   - :speech_balloon: Location: Fiverr
+   - :round_pushpin: Location: Fiverr
 
 8. **Certification Python & Django**
    - :calendar: Date: June 2018
@@ -70,7 +70,7 @@
 10. **Mobile Application Creation**
     - :calendar: Date: June 2018
     - :computer: Language: Flutter
-    - :speech_balloon: Location: Fiverr, Discord
+    - :round_pushpin: Location: Fiverr, Discord
 
 11. **Certification Ethical Hacking 2**
     - :calendar: Date: October 2018
@@ -78,7 +78,7 @@
 
 12. **Website Security**
     - :calendar: Date: November 2018
-    - :speech_balloon: Location: Discord
+    - :round_pushpin: Location: Discord
 
 13. **National Patent Diploma**
     - :calendar: Date: 1/2 July 2019
