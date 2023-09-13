@@ -5,7 +5,9 @@
 - :phone: Phone: +33 07 67 54 65 74
 - :round_pushpin: Location: Orléans, Levallois Perret, Paris
 - :octocat: GitHub:
+  <br>
        - [AvaInfo](https://github.com/avainfo)
+  <br>
        - [Antotor45](https://github.com/Antotor45)
 - :mag_right: StackOverflow: [Antotor45](https://stackoverflow.com/users/1234567/antotor45)
 
