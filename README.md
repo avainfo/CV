@@ -10,8 +10,8 @@
 - :mag_right: StackOverflow: [Antotor45](https://stackoverflow.com/users/1234567/antotor45)
 
 ## Languages
-- :fr: French: Native/Bilingual
-- :uk: English: Professional
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="15"/> French: Native/Bilingual
+- <img src="https://cdn-icons-png.flaticon.com/512/555/555526.png" width="15"/> English: Professional
 
 ## Programming Languages
 - :coffee: Java
